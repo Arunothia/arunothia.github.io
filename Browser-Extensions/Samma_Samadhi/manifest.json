@@ -1,0 +1,23 @@
+{
+    "name": "Samma Samadhi",
+    "description": "Build a habit of deep focus by enabling this extension!",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "icons": {
+      "4": "img/icon-4.png",
+      "16": "img/icon-16.png",
+      "18": "img/icon-18.png",
+      "32": "img/icon-32.png",
+      "36": "img/icon-36.png",
+      "48": "img/icon-48.png",
+      "72": "img/icon-72.png",
+      "128": "img/icon-128.png",
+      "150": "img/icon-150.png",
+      "300": "img/icon-300.png"
+    },
+    "options_page": "options.html",
+    "options_ui": {
+    "page": "options.html"
+    },
+    "manifest_version": 3
+  }
